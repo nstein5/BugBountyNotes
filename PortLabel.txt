@@ -1,0 +1,11 @@
+Classroom IP Phone	[Device] [Building] [Extension] [IP Address] [Room Number] [Patch Number]	Phone/GT/4107/10.64.12.14/RM07/P14
+Office IP Phone	[Device] [Building] [Job Title] [Extension] [IP Address] [Patch Number]	Phone/MS/Principal/3000/10.64.12.49/P12
+
+Phone/GT/4016/10.64.36.54
+
+ Printer - [Building] [Device] [Location] [IP Address] [Patch Number]
+Printer/HS/10.64.8.17
+
+
+[Device] [IP Address] [Building] [Room Number] [Patch Number] 
+AP/10.64.0.129/HS/RM201
