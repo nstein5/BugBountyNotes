@@ -1,0 +1,13 @@
+Identify any root domains, use chrunchbase for acquisitions, use bgp.he.net for the autonomous system number which shows registered ip spaces (do this for acquisitions as well)
+amass intel --asn #    -  can be used to scan all ipv4 in the asn, and sees what is alive. It finds seed domains
+Acquisitions can be used to find other root domains that could be attacked
+Find acquisitions, ASNs, linked discovery, and reverse WHOIS
+whoxy.com for whois lookup, can see all domains they own (a lot of domains are just parked)
+builtwith.com shows what websites are made of, and shows relationships, possibly more domains
+ad analytics can show more seed domains
+Search the copyright in order to find more subdomains, "by office depot LLC. All rights reserved" -www.officedepot.com
+Shodon is  a good recon tool
+use burpsuite proxy, use advanced scope in order to only get targets within scope
+Use web crawl with burp suite, never stop due to errors, fast crawl
+^ Gives subdomains and errors
+burpjslink finder, shows paths used for javascript on the pages
