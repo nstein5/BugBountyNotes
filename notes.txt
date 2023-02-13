@@ -6,8 +6,13 @@ whoxy.com for whois lookup, can see all domains they own (a lot of domains are j
 builtwith.com shows what websites are made of, and shows relationships, possibly more domains
 ad analytics can show more seed domains
 Search the copyright in order to find more subdomains, "by office depot LLC. All rights reserved" -www.officedepot.com
-Shodon is  a good recon tool
+Shodan is  a good recon tool
 use burpsuite proxy, use advanced scope in order to only get targets within scope
 Use web crawl with burp suite, never stop due to errors, fast crawl
 ^ Gives subdomains and errors
-burpjslink finder, shows paths used for javascript on the pages
+Burpsuite Extensions  
+  burpjslink finder, shows paths used for javascript on the pages
+  Hunt remix, finds vulnerable paramaters
+  burpbounty
+  software vulnerability scanner
+amass enum -d officedepot.com - finds subdomains 
